@@ -1,7 +1,7 @@
 # MazeGame
  A python project where the player solves mazes
 <p><br>
-This project started when I was around 13.  I was just starting to code and wanted to make some kind of playable game in Python, with graphics easy enough that
+This project started when I was around 15.  I was just starting to code and wanted to make some kind of playable game in Python, with graphics easy enough that
 I could do it without needing to do a ton of art.  So I made this little game where the player traverses a maze, and is occationally chased by an enemy.
 <p><br>
 As I made the project, I remember a few snags I ran into that I had to solve.<p>
